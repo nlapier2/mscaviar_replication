@@ -1,0 +1,18 @@
+The summary statistics used for this analysis were provided by efforts within the Biobank Japan (BBJ) and UK Biobank (UKB) projects. We would like to thank the people who made those resources available and the authors of the corresponding papers. Links and citations are below.
+
+Biobank Japan website:
+http://jenger.riken.jp/en/result
+
+Biobank Japan HDL paper:
+Kanai M, Akiyama M, Takahashi A, Matoba N, Momozawa Y, Ikeda M, Iwata N, Ikegawa S, Hirata M, Matsuda K, Kubo M. Genetic analysis of quantitative traits in the Japanese population links cell types to complex human diseases. Nature genetics. 2018 Mar;50(3):390-400.
+
+UK Biobank website:
+http://www.nealelab.is/uk-biobank
+
+UK Biobank papers:
+Sudlow C, Gallacher J, Allen N, Beral V, Burton P, Danesh J, Downey P, Elliott P, Green J, Landray M, Liu B. UK biobank: an open access resource for identifying the causes of a wide range of complex diseases of middle and old age. PLoS medicine. 2015 Mar;12(3).
+Bycroft C, Freeman C, Petkova D, Band G, Elliott LT, Sharp K, Motyer A, Vukcevic D, Delaneau O, O’Connell J, Cortes A. The UK Biobank resource with deep phenotyping and genomic data. Nature. 2018 Oct;562(7726):203-9.
+
+UK Biobank trait name:
+HDL cholesterol (mmol/L), both sexes
+#
