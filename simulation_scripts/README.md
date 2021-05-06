@@ -18,8 +18,8 @@ Finally, in the main directory, there are 3 visualization R scripts, which gener
 * Run each finemapping software (see below)
 * Capture sensitivity and set size (_capture.py_)
 
-### Finemapping softwares being evaluated in this simulation include:
-(Corresponnding executables and scripts are included in this directory.)
+### Finemapping softwares being evaluated in this simulation:
+(Corresponnding executables and scripts are included in the Automation/ directory.)
 * CAVIAR
 * MsCAVIAR
 * PAINTOR
