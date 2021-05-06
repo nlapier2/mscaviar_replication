@@ -7,7 +7,7 @@ Automation/ includes _MsCAVIAR_simulation.sh_, which is a shell script that co
 
 Finally, in the main directory, there are 3 visualization softwares, which generate figure 2A (_plot_accuracy_together.R_), 2B (_plot_setSize_together.R_), and 2C (_plot_PIP.R_) in our manuscript.
 
-### Main simulation workflow:
+### Main simulation workflow in _MsCAVIAR_simulation.sh_:
 * Select patient ID by their ethnicity for each population -- ASN, EURO1, and EURO2 (_subset_sample.py_, _id_to_ethnicity.csv_)
 * Use plint to subset UKBB genotype bfile by patient ID and SNP ranges
 * Run plink LD calculation
